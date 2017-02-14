@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CSV2EndNote:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CSV2EndNote_jar</output-path>
+    <root id="archive" name="CSV2EndNote.jar">
+      <element id="module-output" name="SpringerLink2EndNote" />
+    </root>
+  </artifact>
+</component>
